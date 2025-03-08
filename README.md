@@ -93,7 +93,7 @@ Want to contribute? Great! Here's how to set up the development environment:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/auto-template-literals.git
+   git clone https://github.com/AmanKumar-0/auto-template-literals.git
    ```
 
 2. Install dependencies:
@@ -115,11 +115,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 - Initial release
 - Automatic conversion of string literals to template literals
 - Multi-cursor support
+
+### 0.0.2
+
+- Updated README.md
 
 ---
 
