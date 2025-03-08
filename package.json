@@ -3,7 +3,7 @@
   "displayName": "Backtickify",
   "publisher": "CoolAman9873",
   "description": "A VS Code extension to automatically convert string literals to template literals.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.98.0"
   },
